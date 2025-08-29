@@ -1,0 +1,90 @@
+[
+  {
+    "timestamp": "2025-08-29T18:25:24.787588",
+    "cpu": 7.0,
+    "ram": 86.7,
+    "disk": 78.5,
+    "battery": 88,
+    "battery_status": "\ud83d\udd0c Cargando"
+  },
+  {
+    "timestamp": "2025-08-29T18:25:31.035205",
+    "cpu": 50.3,
+    "ram": 87.2,
+    "disk": 78.5,
+    "battery": 88,
+    "battery_status": "\ud83d\udd0c Cargando"
+  },
+  {
+    "timestamp": "2025-08-29T18:25:37.195683",
+    "cpu": 9.2,
+    "ram": 86.9,
+    "disk": 78.5,
+    "battery": 88,
+    "battery_status": "\ud83d\udd0c Cargando"
+  },
+  {
+    "timestamp": "2025-08-29T18:25:43.345281",
+    "cpu": 13.8,
+    "ram": 86.3,
+    "disk": 78.5,
+    "battery": 88,
+    "battery_status": "\ud83d\udd0c Cargando"
+  },
+  {
+    "timestamp": "2025-08-29T18:26:56.182535",
+    "cpu": 13.8,
+    "ram": 86.0,
+    "disk": 78.5,
+    "battery": 89,
+    "battery_status": "\ud83d\udd0c Cargando"
+  },
+  {
+    "timestamp": "2025-08-29T18:27:06.888020",
+    "cpu": 21.2,
+    "ram": 86.9,
+    "disk": 78.5,
+    "battery": 89,
+    "battery_status": "\ud83d\udd0c Cargando"
+  },
+  {
+    "timestamp": "2025-08-29T18:28:12.759503",
+    "cpu": 17.0,
+    "ram": 84.6,
+    "disk": 78.5,
+    "battery": 90,
+    "battery_status": "\ud83d\udd0c Cargando"
+  },
+  {
+    "timestamp": "2025-08-29T18:31:47.888544",
+    "cpu": 9.1,
+    "ram": 87.1,
+    "disk": 78.5,
+    "battery": 91,
+    "battery_status": "\ud83d\udd0c Cargando"
+  },
+  {
+    "timestamp": "2025-08-29T18:32:18.271406",
+    "cpu": 45.6,
+    "ram": 85.2,
+    "disk": 78.5,
+    "battery": 92,
+    "battery_status": "\ud83d\udd0c Cargando"
+  },
+  {
+    "timestamp": "2025-08-29T18:33:46.404248",
+    "cpu": 6.7,
+    "ram": 86.3,
+    "disk": 78.5,
+    "battery": 92,
+    "battery_status": "\ud83d\udd0c Cargando"
+  },
+  {
+    "timestamp": "2025-08-29T18:39:04.899077",
+    "cpu": 17.6,
+    "ram": 83.0,
+    "disk": 78.5,
+    "battery": 95,
+    "battery_status": "\ud83d\udd0c Cargando"
+  }
+]
